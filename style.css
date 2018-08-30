@@ -1,0 +1,38 @@
+body
+{
+	background-image : url('berge-de-seine-aux-andelys-normandie.jpg') ;
+	background-repeat:no-repeat;
+	background-size: cover;
+
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+} 
+
+
+
+th, table {
+	background-color: #33cccc;
+	color :white;
+	 border-width:2px; 
+	border-style:solid; 
+	border-color:black;
+}
+
+ul {
+	color : white;
+}
+h2 {
+	color: white;
+}
+
+nav {
+    display: block;
+}
+
+ol {
+	color: white;
+}
